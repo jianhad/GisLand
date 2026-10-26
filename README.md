@@ -25,20 +25,6 @@
   </p>
 </div>
 
-## 预览
-
-| [预览地址](https://knight-l.github.io/sc-datav/#/demo0) | [预览地址](https://knight-l.github.io/sc-datav/#/demo1) |
-| ------------------------------------------------------- | ------------------------------------------------------- |
-| ![demo1](./public/demo_0.jpg)                           | ![demo2](./public/demo_1.jpg)                           |
-
-| [预览地址](https://knight-l.github.io/sc-datav/#/demo2) |
-| ------------------------------------------------------- |
-| ![demo2](./public/demo_2.jpg)                           |
-
-## 地图轮廓贴图下载工具
-
-[https://github.com/knight-L/sat-hunter](https://github.com/knight-L/sat-hunter)
-
 ## 功能特性
 
 1. **3D 地图可视化**: 基于 Three.js 的 3D 地图渲染，轮廓飞线动画效果，侧边扫光视觉效果
